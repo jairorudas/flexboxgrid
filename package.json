@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kristoferjoseph/flexboxgrid.git"
+    "url": "git://github.com/jairorudas/flexboxgrid.git"
   },
   "keywords": [
     "browser",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/kristoferjoseph/flexboxgrid/issues"
   },
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "homepage": "",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^0.7.2",

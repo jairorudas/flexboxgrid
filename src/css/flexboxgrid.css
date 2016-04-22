@@ -26,8 +26,8 @@
 }
 
 .container-fluid {
-  padding-right: var(--outer-margin, 2rem);
-  padding-left: var(--outer-margin, 2rem);
+  padding-right: var(--outer-margin, 0rem);
+  padding-left: var(--outer-margin, 0rem);
 }
 
 .row {
@@ -821,4 +821,3 @@
     order: 1;
   }
 }
-

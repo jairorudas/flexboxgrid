@@ -29,6 +29,7 @@ Add the `flexboxgrid.css` __development__ or `flexboxgrid.min.css` __production_
 ```
 Inspiration
 -----------
+- [http://flexboxgrid.com](https://github.com/kristoferjoseph/flexboxgrid)
 - [topcoat-grid](https://github.com/topcoat/grid)
 - [flexbox-grid by @zeMicro](https://github.com/zeMirco/flexbox-grid)
 - [ptb2.me/flexgrid](http://ptb2.me/flexgrid/)
