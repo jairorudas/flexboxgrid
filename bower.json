@@ -2,9 +2,9 @@
   "name": "flexboxgrid",
   "version": "6.2.0",
   "license": "Apache 2",
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "homepage": "https://github.com/jairorudas/flexboxgrid",
   "authors": [
-    "@dam"
+    "@jayrudas"
   ],
   "description": "Grid based on the flex display property.",
   "main": "dist/flexboxgrid.css",
